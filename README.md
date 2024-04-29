@@ -7,7 +7,7 @@ I am a student at Ball State University under the path of Computer Science.
 Here are some of the activities we have done over the course of the year:
 | Number | Item | Description |
 |:----: | ------ | --------- |
-| R1 | 
+| R1 | [Project 2] (https://github.com/cvojkufka/Project-2) | A grading system |
 | R2 |
 | R3 |
 | R4 |
